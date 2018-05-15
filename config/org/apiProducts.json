@@ -11,7 +11,7 @@
         ],
         "quota": "10000",
         "quotaInterval": "1",
-        "quotaTimeUnit": "month",
+        "quotaTimeUnit": "week",
         "scopes": []
     }
 ]
