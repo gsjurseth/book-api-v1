@@ -3,7 +3,7 @@
         "apiProducts": [
             "book-api${entity.suffix}-v1-api-product"
         ],
-        "name": "book-api${entity.suffix}-v1-app",
+        "name": "book-api${entity.suffix}-v1-app-snarf",
         "scopes": []
     }]
 }
