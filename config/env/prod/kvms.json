@@ -7,5 +7,14 @@
                 "value": "600"
             }
         ]
+    },
+    {
+        "name": "geir-test-${deployment.suffix}-v1-configuration",
+        "entry": [
+            {
+                "name": "snarf",
+                "value": "Thundercats Rule"
+            }
+        ]
     }
 ]
